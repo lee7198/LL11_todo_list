@@ -4,7 +4,7 @@ import "./list.css";
 
 function App() {
   const [todo, setTodo] = useState(undefined);
-  const [viewClear, setViewClear] = useState(false);
+  const [viewClear, setViewClear] = useState(true);
 
   const saveTodo = (e) => {
     e.preventDefault();
