@@ -26,7 +26,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://lee7198.github.io/todo_list",
+  "homepage": "https://lee7198.github.io/LL11_todo_list",
   "browserslist": {
     "production": [
       ">0.2%",
